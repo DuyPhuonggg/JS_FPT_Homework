@@ -1,4 +1,3 @@
-// từ 
 // a = [
 //   { make: "audi", model: "r8", year: "2012" },
 //   { make: "audi", model: "rs5", year: "2013" },
@@ -41,6 +40,7 @@
 //   ]
 // };
 
+//(chưa làm xong)
 a = [
     { make: "audi", model: "r8", year: "2012" },
     { make: "audi", model: "rs5", year: "2013" },
